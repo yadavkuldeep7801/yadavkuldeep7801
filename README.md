@@ -1,6 +1,9 @@
-# 💫 About Me:
-🔭 I’m currently pursuing BTach👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
+🔭 I’m currently working on full-stack web applications and AI-powered projects
+👯 I’m looking to collaborate on open-source contributions and innovative SaaS tools
+🤝 I’m looking for help with Kubernetes scaling and advanced DevOps workflows
+🌱 I’m currently learning AI/ML with JavaScript, Cloud-Native Development, and Serverless Architectures
+💬 Ask me about MERN Stack, DevOps, CI/CD, Cloud Platforms, and Real-Time Applications
+⚡ Fun fact: I can debug faster with coffee but code cleaner without it. ☕💻
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kuldeep yadav) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kul_deep_776) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kuldeep yadav) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kuldeep) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kuldeep) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yadavkuldeeep7801@gmail.com) 
